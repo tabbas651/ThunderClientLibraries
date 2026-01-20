@@ -41,3 +41,5 @@ Source/bluetoothaudiosource/btaudiorecorder/btaudiorecorder
 */*/*/*/*tests
 */*/generated
 */*/*/*/lib*.a
+.cache
+compile_commands.json

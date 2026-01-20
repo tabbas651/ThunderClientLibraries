@@ -21,7 +21,7 @@ find_package(Thunder)
 
 project(ocdm)
 
-project_version(1.0.0)
+project_version(5.3.0)
 
 set(TARGET ${PROJECT_NAME})
 
