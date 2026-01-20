@@ -21,9 +21,9 @@ find_package(Thunder)
 
 project(SecurityAgent)
 
-project_version(1.0.0)
+project_version(5.3.0)
 
-set(TARGET Client${PROJECT_NAME})
+set(TARGET ${NAMESPACE}${PROJECT_NAME})
 
 message("Setup ${TARGET} v${PROJECT_VERSION}")
 
